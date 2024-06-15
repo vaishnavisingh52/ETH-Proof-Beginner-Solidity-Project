@@ -40,8 +40,8 @@ pragma solidity 0.8.18;
 contract MyToken { 
 
     // public variables here 
-    string public tokenName = "Aditya Bharti";
-    string public tokenAbbrev = "ADB";
+    string public tokenName = "Vaishnavi Singh";
+    string public tokenAbbrev = "VS";
     uint256 public totalSupply = 0;
 
     // mapping variable here
@@ -74,7 +74,7 @@ After deploying, we can interact with the contract.
 
 ## Authors
 
-Aditya Bharti
+Vaishnavi Singh
 
 
 ## License
